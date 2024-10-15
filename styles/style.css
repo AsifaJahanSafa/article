@@ -1,0 +1,26 @@
+nav>ul{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+nav>ul>li{
+   list-style: none;
+
+}
+nav>ul>li>a{
+   text-decoration: none;
+
+}
+
+article{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
